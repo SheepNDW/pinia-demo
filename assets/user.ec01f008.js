@@ -1,0 +1,1 @@
+import{l as t}from"./vendor.d72b56af.js";var a=t("User Store",{state:()=>({name:"\u7DBF\u7F8A",wallet:300}),getters:{getUserName:e=>`\u6211\u7684\u540D\u5B57\u53EB\u505A ${e.name}`},actions:{updateName(){this.name="Sheep"}}});export{a as u};
